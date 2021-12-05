@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "注册按钮",
+    "texture": "c34042be-5980-4dc2-9e68-0436e0ffe648",
+    "atlas": "",
+    "rect": [
+      15,
+      17,
+      910,
+      318
+    ],
+    "offset": [
+      -3.5,
+      5.5
+    ],
+    "originalSize": [
+      947,
+      363
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

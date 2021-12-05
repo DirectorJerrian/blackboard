@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "透明",
+    "texture": "c7a4d967-6fec-4496-bb0a-9d17d6059785",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      200
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      200
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

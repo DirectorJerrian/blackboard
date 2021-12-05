@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "已有帐号？返回登录",
+    "texture": "62c6e920-f8e7-46c2-a5d9-01caaaeaa6a3",
+    "atlas": "",
+    "rect": [
+      26,
+      9,
+      1318,
+      447
+    ],
+    "offset": [
+      2.5,
+      9.5
+    ],
+    "originalSize": [
+      1365,
+      484
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

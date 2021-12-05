@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "便利贴图标",
+    "texture": "8eaae673-9c1c-4014-abd8-609990f64da5",
+    "atlas": "",
+    "rect": [
+      11,
+      0,
+      170,
+      180
+    ],
+    "offset": [
+      -3,
+      5
+    ],
+    "originalSize": [
+      198,
+      190
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "活动广场图标",
+    "texture": "78ae1824-d434-4ffc-a2ab-8566c6988333",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2400,
+      1000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2400,
+      1000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

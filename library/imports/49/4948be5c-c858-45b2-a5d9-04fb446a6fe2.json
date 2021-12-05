@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑板",
+    "texture": "3f7c8ed9-0a98-4e7a-8c9b-f7fbc6ae6afb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      720,
+      7100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      720,
+      7100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
